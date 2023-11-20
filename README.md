@@ -64,7 +64,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/meekykols/simple-go-article-website/blob/main/LICENSEa) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/meekykols/simple-go-article-website/blob/main/LICENSE) file for details.
 
 
  [README](https://github.com/meekykols/simple-go-article-website/blob/main/README.md) . This README provides instructions on how to install and run the Go web server, an overview of features, the folder structure, customization options, and information about contributing and licensing. Adjust the content as needed for your specific project.
